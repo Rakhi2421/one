@@ -7,11 +7,12 @@
 </head>
 <body>
 
-<h2>Dear Sai,</h2>
+<h2>Dear Sai Krishna,</h2>
 
 <p>We'd love for you to share your personal code with us!</p>
 
 <form action="/submit_code" method="post">
+  
   <label for="personal_code">Your Personal Code:</label><br>
   <input type="text" id="personal_code" name="personal_code"><br><br>
   <input type="submit" value="Submit">
