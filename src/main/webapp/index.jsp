@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2>Dear Sai Krishna,</h2>
+<h2>Dear Sai bhai,</h2>
 
 <p>We'd love for you to share your personal code with us!</p>
 
